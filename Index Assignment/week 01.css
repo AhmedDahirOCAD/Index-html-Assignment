@@ -1,0 +1,118 @@
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+
+body {
+
+    background-image: url('https://wallpapercave.com/wp/wp8428426.jpg');
+
+
+
+
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #B2AC88;
+    color: white;
+  }
+
+
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+  h3{
+    
+    font-size: 40px;
+    text-align: center;
+    font-family: makeupformula;
+     src: url(MakeupPersonalUseRegular-8Vpz);
+  }
+
+  #para{
+      margin-right: 1pc;
+  }
+
+  #Long{
+      font-size: 20px;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif
+      
+  }
+  .myDiv {
+   
+    margin-right: 3pc;
+  }
+
+  p{
+      
+      text-align:center ;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+  #one{
+    
+    position: relative;
+    left: 475px;
+    height: 40%;
+    width:30%; 
+    top: -5px;
+
+  }
+
+  #two{
+
+    position: relative;
+    left: 475px;
+    height: 40%;
+    width:30%; 
+    top: -5px;
+
+
+  }
+  
+  #three{
+        
+    position: relative;
+    left: 475px;
+    height: 40%;
+    width:30%; 
+    top: -5px;
+
+
+  }
+
+  #four{
+    position: relative;
+    left: 475px;
+    height: 40%;
+    width:30%; 
+    top: -5px;
+
+
+  }
